@@ -67,7 +67,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **8. String to Integer (atoi) (Medium)**
 
-### **9. Palindrome Number (Easy)**  
+### **9. Palindrome Number (Easy)** ✅
 
 ### **10. Regular Expression Matching (Hard)**
 
