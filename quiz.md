@@ -1,4 +1,4 @@
-## Scala MCQ Answers (Q1–Q3)
+## Scala MCQ Answers 
 
 ☑ indicates the correct answer.
 
