@@ -55,7 +55,6 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 ### **3. Longest Substring Without Repeating Characters (Medium)**
 
 ### **4. Median of Two Sorted Arrays (Hard)**  
-Optimized O(log(m+n)) solution.
 
 ### **5. Longest Palindromic Substring (Medium)**
 
@@ -66,7 +65,6 @@ Optimized O(log(m+n)) solution.
 ### **8. String to Integer (atoi) (Medium)**
 
 ### **9. Palindrome Number (Easy)**  
-With and without string conversion.
 
 ### **10. Regular Expression Matching (Hard)**
 
@@ -84,7 +82,6 @@ With and without string conversion.
 
 ### **39. Combination Sum (Medium)**
 
-Each solution is written in idiomatic Scala with comments for clarity.
 
 ---
 
