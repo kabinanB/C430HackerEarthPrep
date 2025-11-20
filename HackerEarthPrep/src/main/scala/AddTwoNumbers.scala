@@ -54,7 +54,8 @@ object AddTwoNumbers {
     //Test case 1
     val l1 = buildList(List(2, 4, 3))
     val l2 = buildList(List(5, 6, 4))
-    printList(addTwoNumbers(l1, l2))  // expected [7,0,8]
+    val ans = addTwoNumbers(l1, l2)
+    printList(ans)  // expected [7,0,8]
 
 
     //Test case 2
