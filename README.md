@@ -55,7 +55,7 @@ Return indices of two numbers whose values add to the target.
 ### **2. Add Two Numbers (Linked List) (Medium)** ✅
 Adds two reversed linked list numbers. Includes custom `ListNode` class. 
 
-### **3. Longest Substring Without Repeating Characters (Medium)**
+### **3. Longest Substring Without Repeating Characters (Medium)** ✅
 
 ### **4. Median of Two Sorted Arrays (Hard)**  
 
