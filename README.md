@@ -2,8 +2,9 @@
 
 This repository contains solutions for the **Scala preparation task**, which includes:
 
-1. **Multiple-Choice Questions (MCQs)** on Scala fundamentals and intermediate concepts  
-2. **Coding Questions** based on common interview problems
+1. **[Normal set of Questions](https://docs.google.com/document/d/1XeN7w-MOq5uxDOMS0TeZZlNY1ZWV_Eehi3JGhY2IEJ8/edit?usp=sharing) ** on Scala fundamentals and intermediate concepts
+2. **Multiple-Choice Questions (MCQs)** also on Scala fundamentals and intermediate concepts
+3. **Coding Questions** based on common interview problems
 
 The goal is to practice Scala syntax, OOP concepts, recursion, collections, higher-order functions, pattern matching, and problem-solving with Scala.
 
@@ -40,8 +41,14 @@ A complete collection of Scala MCQs covering:
 
 All MCQs from the assignment are included in this README for easy reference.
 
-## Link for the Document:
+## Link for the Document (contains Scala interview-style questions):
 https://docs.google.com/document/d/1XeN7w-MOq5uxDOMS0TeZZlNY1ZWV_Eehi3JGhY2IEJ8/edit?usp=sharing
+
+## Scala MCQ Quiz
+
+You can look at the full Scala MCQ quiz here:
+
+**[Open the Scala Quiz](./quiz.md)**  
 
 ---
 
