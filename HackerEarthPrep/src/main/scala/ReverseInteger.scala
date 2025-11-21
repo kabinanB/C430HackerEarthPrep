@@ -1,4 +1,4 @@
-object Solution {
+object ReverseInteger{
 
   def reverse(x: Int): Int = {
 

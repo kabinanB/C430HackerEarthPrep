@@ -2,7 +2,7 @@ package DataStructuresClasses
 
 import scala.collection.mutable
 
-object ValidParantheses {
+object ValidParentheses {
 
   def isValid(s: String): Boolean = {
     val stk = mutable.Stack[Char]()
