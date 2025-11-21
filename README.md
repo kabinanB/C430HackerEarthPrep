@@ -85,7 +85,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **17. Letter Combinations of a Phone Number (Medium)**
 
-### **19. Remove Nth Node From End of List (Medium)**
+### **19. Remove Nth Node From End of List (Medium)** ✅
 
 ### **20. Valid Parentheses (Easy)** ✅
 
