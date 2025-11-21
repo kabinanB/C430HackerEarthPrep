@@ -71,7 +71,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **6. Zigzag Conversion (Medium)** ✅
 
-### **7. Reverse Integer (Medium)**
+### **7. Reverse Integer (Medium)** ✅
 
 ### **8. String to Integer (atoi) (Medium)** ✅
 
