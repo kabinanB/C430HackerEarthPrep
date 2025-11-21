@@ -67,7 +67,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **4. Median of Two Sorted Arrays (Hard)** ✅ 
 
-### **5. Longest Palindromic Substring (Medium)**
+### **5. Longest Palindromic Substring (Medium)** ✅
 
 ### **6. Zigzag Conversion (Medium)** ✅
 
@@ -79,7 +79,7 @@ Adds two reversed linked list numbers. Includes custom `ListNode` class.
 
 ### **10. Regular Expression Matching (Hard)**
 
-### **11. Container With Most Water (Medium)**
+### **11. Container With Most Water (Medium)** ✅
 
 ### **12. 3Sum (Medium)**
 
