@@ -3,7 +3,7 @@
 This repository contains solutions for the **Scala preparation task**, which includes:
 
 Questions set can be found in this [link](https://docs.google.com/document/d/1i1qpYsiFtMQKTTwCEfCMKWzE94hQXZ9OU6zxaZLhvS0/edit?tab=t.0)
-1. **[Normal set of Questions](https://docs.google.com/document/d/1XeN7w-MOq5uxDOMS0TeZZlNY1ZWV_Eehi3JGhY2IEJ8/edit?usp=sharing) ** on Scala fundamentals and intermediate concepts
+1. **[Normal set of Questions with answers](https://docs.google.com/document/d/1XeN7w-MOq5uxDOMS0TeZZlNY1ZWV_Eehi3JGhY2IEJ8/edit?usp=sharing) ** on Scala fundamentals and intermediate concepts
 2. **Multiple-Choice Questions (MCQs)** also on Scala fundamentals and intermediate concepts
 3. **Coding Questions** based on common interview problems
 
